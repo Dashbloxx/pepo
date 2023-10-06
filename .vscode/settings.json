@@ -1,0 +1,9 @@
+{
+    "files.exclude": {
+        "**/*.o": true
+    },
+    "files.associations": {
+        "cmath": "cpp",
+        "complex": "cpp"
+    }
+}
